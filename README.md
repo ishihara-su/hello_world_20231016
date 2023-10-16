@@ -4,3 +4,5 @@
 
 新しいブランチにかき込んでみました。
 
+New line added by a local environment.
+
